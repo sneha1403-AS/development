@@ -1,0 +1,13 @@
+after the installation of git go to the browser and login to github with the username and passsword 
+after that create a new repository and give the name to your repository
+
+after giving the name to the repository create a file and write something in that file and click on commit changes and 
+next edit the same file and again click on commit changes.
+
+next configure git with vs code commands are 
+1 git 
+2 git congig --username
+3 git congig --email
+4 git clone link of the repository
+5 ls
+6 cd file name present in the git repository
