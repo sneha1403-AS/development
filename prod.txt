@@ -11,3 +11,5 @@ next configure git with vs code commands are
 4 git clone link of the repository
 5 ls
 6 cd file name present in the git repository
+
+finish the steps
