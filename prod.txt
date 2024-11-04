@@ -13,3 +13,6 @@ next configure git with vs code commands are
 6 cd file name present in the git repository
 
 finish the steps
+to update the same command in the vs code 
+7 git pull origin main
+8 git push origin main 
